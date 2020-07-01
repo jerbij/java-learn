@@ -16,7 +16,7 @@ public class Heating
 		 Scanner input = new Scanner(System.in);
 		 meters = input.nextInt();
 
-	  if (meters >= 1 && meters <=1000) {
+	     if (meters >= 1 && meters <=1000) {
 		    
 			if(meters <= 15) {
 				coefficient = 1;
