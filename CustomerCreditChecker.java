@@ -8,6 +8,8 @@ public class CustomerCreditChecker
 
 		//Scanner input = new Scanner( System.in );
 
+		//сделать массивы [] номер кастомера и цена вещи 
+		//условие, <1 >4  иначе ошибка
 
 		// Entities:
 
@@ -24,7 +26,7 @@ public class CustomerCreditChecker
 		int balance3 = 30;
 		int balance4 = 20;
 
-        // 10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 -13 -14 -15 -16 -17 -17 -18 -19 -20
+        // 10 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10 -11 -12 -13 -14 -15 -16 -17 -17 -18 -19 -20 
         // ---------------------=---------------------------------------------------------------------------
 
 		int creditLimit1 = 0;
@@ -49,6 +51,8 @@ public class CustomerCreditChecker
 		String s1 = "Enter a customer number:";
 
 		System.out.println(s1); // promt for input
+
+	    
 
 
 
