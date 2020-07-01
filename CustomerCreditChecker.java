@@ -9,9 +9,7 @@ public class CustomerCreditChecker
 		//Scanner input = new Scanner( System.in );
 
 		//сделать массивы [] номер кастомера и цена вещи 
-		//условие, <1 >4  иначе ошибка 
-
-
+		//условие, <1 >4  иначе ошибка
 
 		// Entities:
 
